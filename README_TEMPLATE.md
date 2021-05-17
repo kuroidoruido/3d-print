@@ -26,5 +26,5 @@ Notes/Tips
 
 ## Links
 
-- [thingiverse link](#)
-- [other](#)
+- [thingiverse link]()
+- [other]()
