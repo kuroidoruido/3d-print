@@ -2,6 +2,10 @@
 
 Simple 2cm dominos.
 
+You can print dominos.stl to have double-six dominos set. 
+dominos-double-nine.stl offer you a double-nine extension.
+Support is WIP
+
 ## Print Setting
 
 - Printer brand: Creality
@@ -21,6 +25,7 @@ I used a 0.7mm black POSCA to color dots.
 ## Photos
 
 ![](./dominos_on_bed.jpg)
+![](./dominos_on_bed-2.jpg)
 ![](./dominos_colored.jpg)
 
 ## Links
